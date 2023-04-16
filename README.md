@@ -46,3 +46,5 @@ Confirm change in database:
 
 ![delete_before](https://user-images.githubusercontent.com/123834123/232344990-7ec3a9cb-b772-442e-a1ee-b1bd51b0684e.png)
 ![delete_after](https://user-images.githubusercontent.com/123834123/232345008-c03b001c-bf2c-4db7-848e-27b4dce03860.png)
+
+Link to cloud-deployed database App: https://dba120-finalproject.herokuapp.com/
