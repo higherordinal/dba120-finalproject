@@ -29,3 +29,12 @@ Create front end to select/read all data from the course table:
 and display it in a table:
 
 ![read_display](https://user-images.githubusercontent.com/123834123/232343088-1c617d90-7712-4737-adb0-156883f66eba.png)
+
+Create front end with form to change the course_id of a particular student in the student table:
+
+![update_course](https://user-images.githubusercontent.com/123834123/232344181-41ceced0-2cce-4860-960c-a0535b65a005.png)
+
+Confirm change from course_id 00312 to 00309:
+
+![update_change](https://user-images.githubusercontent.com/123834123/232344227-13bc4dcf-362e-4bfe-935e-d6a3cab7d00c.png)
+
