@@ -21,3 +21,11 @@ Create front-end with form able to create new entry in the student table:
 Confirm change in student table of database:
 
 ![create_new_entry_confirm](https://user-images.githubusercontent.com/123834123/232341837-fb2074f4-127b-4795-9f68-bd5e87eb6248.png)
+
+Create front end to select/read all data from the course table:
+
+![read](https://user-images.githubusercontent.com/123834123/232343072-13135549-5e1b-4ac4-b12c-6b423fc27ee1.png)
+
+and display it in a table:
+
+![read_display](https://user-images.githubusercontent.com/123834123/232343088-1c617d90-7712-4737-adb0-156883f66eba.png)
